@@ -100,6 +100,9 @@ Choose a reporter
 Ask for help
 > npx playwright test --help
 
+> <img width="661" alt="image" src="https://github.com/leandroferreira25/qaat/assets/52759535/8ad9385d-d1da-4c6f-9662-f129b502ea2a">
+
+
 
 # Usage Artillery.io
 

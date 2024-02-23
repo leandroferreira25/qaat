@@ -119,5 +119,8 @@ artillery report test-run-report.json
 
 This will create a test-run-report.json.html file in the current directory which you can open in a browser.
 
+<img width="497" alt="image" src="https://github.com/leandroferreira25/qaat/assets/52759535/853b0000-6a9a-4a37-b3bd-ea8d83733ceb">
+
+
 
 

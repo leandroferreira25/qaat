@@ -1,0 +1,96 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 6,
+      "vusers.created": 6,
+      "vusers.failed": 0,
+      "vusers.completed": 6
+    },
+    "rates": {},
+    "firstCounterAt": 1708713184713,
+    "firstHistogramAt": 1708713185227,
+    "lastCounterAt": 1708713189824,
+    "lastHistogramAt": 1708713189824,
+    "firstMetricAt": 1708713184713,
+    "lastMetricAt": 1708713189824,
+    "period": 1708713180000,
+    "summaries": {
+      "vusers.session_length": {
+        "min": 90.1,
+        "max": 514.4,
+        "count": 6,
+        "mean": 171.6,
+        "p50": 102.5,
+        "median": 102.5,
+        "p75": 108.9,
+        "p90": 113.3,
+        "p95": 113.3,
+        "p99": 113.3,
+        "p999": 113.3
+      }
+    },
+    "histograms": {
+      "vusers.session_length": {
+        "min": 90.1,
+        "max": 514.4,
+        "count": 6,
+        "mean": 171.6,
+        "p50": 102.5,
+        "median": 102.5,
+        "p75": 108.9,
+        "p90": 113.3,
+        "p95": 113.3,
+        "p99": 113.3,
+        "p999": 113.3
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 6,
+        "vusers.created": 6,
+        "vusers.failed": 0,
+        "vusers.completed": 6
+      },
+      "rates": {},
+      "firstCounterAt": 1708713184713,
+      "firstHistogramAt": 1708713185227,
+      "lastCounterAt": 1708713189824,
+      "lastHistogramAt": 1708713189824,
+      "firstMetricAt": 1708713184713,
+      "lastMetricAt": 1708713189824,
+      "period": "1708713180000",
+      "summaries": {
+        "vusers.session_length": {
+          "min": 90.1,
+          "max": 514.4,
+          "count": 6,
+          "mean": 171.6,
+          "p50": 102.5,
+          "median": 102.5,
+          "p75": 108.9,
+          "p90": 113.3,
+          "p95": 113.3,
+          "p99": 113.3,
+          "p999": 113.3
+        }
+      },
+      "histograms": {
+        "vusers.session_length": {
+          "min": 90.1,
+          "max": 514.4,
+          "count": 6,
+          "mean": 171.6,
+          "p50": 102.5,
+          "median": 102.5,
+          "p75": 108.9,
+          "p90": 113.3,
+          "p95": 113.3,
+          "p99": 113.3,
+          "p999": 113.3
+        }
+      }
+    }
+  ]
+}
